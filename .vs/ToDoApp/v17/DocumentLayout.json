@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\MVC Test task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\scripts\\loadscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\scripts\\loadscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|D:\\MVC Test task\\todoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +15,12 @@
       "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\home\\content\\contentpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\scripts\\loadscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\scripts\\loadscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ContentPartialView.cshtml",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\Content\\ContentPartialView.cshtml",
               "RelativeDocumentMoniker": "ToDoApp\\Views\\Home\\Content\\ContentPartialView.cshtml",
@@ -91,20 +91,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "loadscript.js",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Scripts\\loadscript.js",
               "RelativeDocumentMoniker": "ToDoApp\\Scripts\\loadscript.js",
               "ToolTip": "D:\\MVC Test task\\ToDoApp\\Scripts\\loadscript.js",
               "RelativeToolTip": "ToDoApp\\Scripts\\loadscript.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-11-09T10:02:22.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ToDoApp\\Views\\Shared\\_Layout.cshtml",
@@ -117,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ToDoApp\\Controllers\\HomeController.cs",
@@ -130,13 +130,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ToDoApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ToDoApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-09T09:32:40.378Z",
               "EditorCaption": ""
