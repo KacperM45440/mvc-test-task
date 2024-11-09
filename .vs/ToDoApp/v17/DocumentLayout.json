@@ -11,28 +11,36 @@
       "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\home\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\home\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\home\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\home\\studentsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\home\\studentsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\helpers\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\helpers\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\home\\formsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\home\\formsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\home\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\home\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\helpers\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\helpers\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\helpers\\comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\helpers\\comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\helpers\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\helpers\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentSave.cshtml",
+              "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\StudentSave.cshtml",
+              "RelativeDocumentMoniker": "ToDoApp\\Views\\Home\\StudentSave.cshtml",
+              "ToolTip": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\StudentSave.cshtml",
+              "RelativeToolTip": "ToDoApp\\Views\\Home\\StudentSave.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T13:15:38.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Helpers\\Person.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Helpers\\Person.cs",
+              "ToolTip": "D:\\MVC Test task\\ToDoApp\\Helpers\\Person.cs",
+              "RelativeToolTip": "ToDoApp\\Helpers\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:30:14.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ToDoApp\\Views\\Home\\Index.cshtml",
@@ -59,25 +93,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Student.cshtml",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\Student.cshtml",
               "RelativeDocumentMoniker": "ToDoApp\\Views\\Home\\Student.cshtml",
               "ToolTip": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\Student.cshtml",
               "RelativeToolTip": "ToDoApp\\Views\\Home\\Student.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-09T12:05:02.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Save.cshtml",
-              "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\Save.cshtml",
-              "RelativeDocumentMoniker": "ToDoApp\\Views\\Home\\Save.cshtml",
-              "ToolTip": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\Save.cshtml",
-              "RelativeToolTip": "ToDoApp\\Views\\Home\\Save.cshtml",
+              "DocumentIndex": 5,
+              "Title": "FormSave.cshtml",
+              "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\FormSave.cshtml",
+              "RelativeDocumentMoniker": "ToDoApp\\Views\\Home\\FormSave.cshtml",
+              "ToolTip": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\FormSave.cshtml",
+              "RelativeToolTip": "ToDoApp\\Views\\Home\\FormSave.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-09T12:04:50.479Z",
@@ -85,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ToDoApp\\Views\\Shared\\_Layout.cshtml",
@@ -104,7 +138,7 @@
               "RelativeDocumentMoniker": "ToDoApp\\Views\\Home\\Form.cshtml",
               "ToolTip": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\Form.cshtml",
               "RelativeToolTip": "ToDoApp\\Views\\Home\\Form.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-09T11:06:08.96Z",
               "EditorCaption": ""
@@ -117,14 +151,14 @@
               "RelativeDocumentMoniker": "ToDoApp\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\MVC Test task\\ToDoApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ToDoApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T09:33:38.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "DataHelper.cs",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Helpers\\DataHelper.cs",
               "RelativeDocumentMoniker": "ToDoApp\\Helpers\\DataHelper.cs",
@@ -137,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ComboBoxItem.cs",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Helpers\\ComboBoxItem.cs",
               "RelativeDocumentMoniker": "ToDoApp\\Helpers\\ComboBoxItem.cs",

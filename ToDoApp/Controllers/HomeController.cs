@@ -35,7 +35,7 @@ namespace ToDoApp.Controllers
         }
 
         [HttpPost]
-        public ActionResult Save(int years)
+        public ActionResult FormSave(int years)
         {
             //ViewBag.Message = "Data posted!" + years.ToString();
             ViewBag.Message = "Data posted!";
@@ -45,6 +45,23 @@ namespace ToDoApp.Controllers
         public ActionResult Student()
         {
             return View();
+        }
+
+        [HttpPost] [ValidateAntiForgeryToken]
+        public ActionResult Student(Student model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+
+            return RedirectToAction("StudentSave", model);
+        }
+
+        public ActionResult StudentSave(Student model)
+        {
+            ViewBag.Message = "Student data successfully submitted!";
+            return View(model);
         }
     }
 }

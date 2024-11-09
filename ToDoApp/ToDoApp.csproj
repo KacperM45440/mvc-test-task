@@ -123,6 +123,7 @@
     </Compile>
     <Compile Include="Helpers\ComboBoxItem.cs" />
     <Compile Include="Helpers\DataHelper.cs" />
+    <Compile Include="Helpers\Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -164,7 +165,8 @@
     <Content Include="Views\Home\Student.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Content\ContentPartialView.cshtml" />
-    <Content Include="Views\Home\Save.cshtml" />
+    <Content Include="Views\Home\FormSave.cshtml" />
+    <Content Include="Views\Home\StudentSave.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

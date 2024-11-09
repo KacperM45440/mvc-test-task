@@ -1,1 +1,61 @@
-﻿
+﻿@model ToDoApp.Helpers.Student
+
+@{
+    ViewBag.Title = "Student Form";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Student Form</h2>
+
+@using (Html.BeginForm("Student", "Home", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <fieldset>
+        <legend>Enter Student Information</legend>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.ID)
+            @Html.TextBoxFor(m => m.ID, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.ID, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Age)
+            @Html.TextBoxFor(m => m.Age, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Age, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.FirstName)
+            @Html.TextBoxFor(m => m.FirstName, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.FirstName, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.LastName)
+            @Html.TextBoxFor(m => m.LastName, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.LastName, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Email)
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.University)
+            @Html.TextBoxFor(m => m.University, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.University, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Submit" class="btn btn-primary" />
+        </div>
+    </fieldset>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
