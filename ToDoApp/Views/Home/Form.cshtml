@@ -1,1 +1,14 @@
-﻿
+﻿@{
+    ViewBag.Title = "Select Year";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Form", "Home", FormMethod.Get))
+{
+    <fieldset>
+        @Html.DropDownList("Years", (IEnumerable<SelectListItem>)ViewBag.Years)
+        <p>
+            <input type="submit" value="Submit" />
+        </p>
+    </fieldset>
+}

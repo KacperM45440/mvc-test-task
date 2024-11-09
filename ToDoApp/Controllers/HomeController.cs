@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using ToDoApp.Helpers;
 
 namespace ToDoApp.Controllers
 {
@@ -20,6 +21,16 @@ namespace ToDoApp.Controllers
 
         public ActionResult Form()
         {
+            List<ComboBoxItem> items = DataHelper.GetYears(DateTime.Now);
+
+            var selectList = items.Select(item => new SelectListItem
+            {
+                Value = item.ID.ToString(),
+                Text = item.FullName
+            }).ToList();
+
+            ViewBag.Years = selectList;
+
             return View();
         }
 
