@@ -1,0 +1,7 @@
+.custom-button {
+    width: 200px;
+    height: 30px;
+    color: brown;
+    background-color: darkseagreen;
+    border: 2px dashed red;
+}
