@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\MVC Test task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\scripts\\loadscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\scripts\\loadscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|D:\\MVC Test task\\todoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\home\\content\\contentpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\home\\content\\contentpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|d:\\mvc test task\\todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|D:\\MVC Test task\\todoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC64D752-ACA0-440B-B232-F87409386F4F}|ToDoApp\\ToDoApp.csproj|D:\\MVC Test task\\todoapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Site.css",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Content\\Site.css",
               "RelativeDocumentMoniker": "ToDoApp\\Content\\Site.css",
@@ -56,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "style.css",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Styles\\style.css",
               "RelativeDocumentMoniker": "ToDoApp\\Styles\\style.css",
@@ -66,6 +74,32 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-09T09:55:44.549Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContentPartialView.cshtml",
+              "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\Content\\ContentPartialView.cshtml",
+              "RelativeDocumentMoniker": "ToDoApp\\Views\\Home\\Content\\ContentPartialView.cshtml",
+              "ToolTip": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\Content\\ContentPartialView.cshtml",
+              "RelativeToolTip": "ToDoApp\\Views\\Home\\Content\\ContentPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T10:04:12.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loadscript.js",
+              "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Scripts\\loadscript.js",
+              "RelativeDocumentMoniker": "ToDoApp\\Scripts\\loadscript.js",
+              "ToolTip": "D:\\MVC Test task\\ToDoApp\\Scripts\\loadscript.js",
+              "RelativeToolTip": "ToDoApp\\Scripts\\loadscript.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-09T10:02:22.711Z",
               "EditorCaption": ""
             },
             {
@@ -83,33 +117,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ToDoApp\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\MVC Test task\\ToDoApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ToDoApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T09:33:38.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ToDoApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\MVC Test task\\ToDoApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ToDoApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-09T09:32:40.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Web.config",
               "RelativeDocumentMoniker": "ToDoApp\\Web.config",
@@ -122,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "D:\\MVC Test task\\ToDoApp\\Global.asax.cs",
               "RelativeDocumentMoniker": "ToDoApp\\Global.asax.cs",
