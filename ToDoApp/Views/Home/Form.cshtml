@@ -3,12 +3,12 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-@using (Html.BeginForm("Form", "Home", FormMethod.Get))
+@using (Html.BeginForm("Save", "Home", FormMethod.Post))
 {
     <fieldset>
         @Html.DropDownList("Years", (IEnumerable<SelectListItem>)ViewBag.Years)
         <p>
-            <input type="submit" value="Submit" />
+            <input type="submit" value="Save" />
         </p>
     </fieldset>
 }

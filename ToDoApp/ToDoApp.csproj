@@ -164,6 +164,7 @@
     <Content Include="Views\Home\Student.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Content\ContentPartialView.cshtml" />
+    <Content Include="Views\Home\Save.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

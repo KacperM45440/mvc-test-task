@@ -34,6 +34,14 @@ namespace ToDoApp.Controllers
             return View();
         }
 
+        [HttpPost]
+        public ActionResult Save(int years)
+        {
+            //ViewBag.Message = "Data posted!" + years.ToString();
+            ViewBag.Message = "Data posted!";
+            return View();
+        }
+
         public ActionResult Student()
         {
             return View();
